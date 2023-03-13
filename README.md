@@ -4,13 +4,11 @@ Webscraping using splinter, pandas libraries Beautiful Soup, and matplotlib.  I 
 Deliverable 1:
 
 
+Deliverable 1: Scrape Titles and Preview Text from Mars News
+Using Beautiful Soup and splinter.
 
-
-
-
-
-
-
+Then we viewed the Mars news site to scrape the data.
+I scraped the Mars News site using Beautiful Soup (html parser), extracted all the text elements and stored them. 
 
 Deliverable 2:
 By opening the webpage, I used Chrome DevTools to find usable classes.
